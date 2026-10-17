@@ -45,6 +45,6 @@ LingLu_release/
 
 ## 许可
 
-- 应用本体：私有软件（UNLICENSED），版权归 Linglu Team 所有。
+- 应用本体：私有软件（UNLICENSED），版权归 yajunjiao 所有。
 - Electron 与 Chromium 组件许可见 `win-unpacked/LICENSE.electron.txt` 与 `win-unpacked/LICENSES.chromium.html`。
 - FFmpeg、whisper.cpp 等第三方组件遵循其各自的开源许可。
